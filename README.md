@@ -1,5 +1,19 @@
 # Csf2020workshop1
 
+## Deploy to github io
+
+```
+npm i angular-cli-ghpages --save-dev
+```
+
+```
+ng build --prod --base-href=/csfworkshop1/
+```
+
+```
+npx angular-cli-ghpages --dir=dist/csf2020workshop1/
+````
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
 
 ## Development server

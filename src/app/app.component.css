@@ -1,0 +1,24 @@
+h1 {
+    display: block;
+    font-size: 5em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+    font-family: Impact, Charcoal, sans-serif;
+}
+
+* {background-color: red !important;}
+
+.container{
+    width:100%;/*whatever*/
+    height:100%;/*whatever*/
+    margin:0 auto;
+    align-content: center;
+}
+
+.center {
+    text-align: center;
+    border: 3px solid green;
+  }

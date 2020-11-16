@@ -116,9 +116,16 @@
               "devServerTarget": "csf2020workshop1:serve:production"
             }
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {}
         }
       }
     }
   },
-  "defaultProject": "csf2020workshop1"
+  "defaultProject": "csf2020workshop1",
+  "cli": {
+    "analytics": false
+  }
 }
