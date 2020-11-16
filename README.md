@@ -6,13 +6,30 @@
 npm i angular-cli-ghpages --save-dev
 ```
 
+Mac OS
+
 ```
 ng build --prod --base-href=/csfworkshop1/
 ```
 
+Windows
+
+```
+ng build --prod --base-href "https://kenken64.github.io/csfworkshop1"
+```
+
+Mac OS
+
 ```
 npx angular-cli-ghpages --dir=./dist/csf2020workshop1/
 ````
+
+Windows 
+
+```
+npx angular-cli-ghpages --dir=./dist/csf2020workshop1
+````
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.1.
 
