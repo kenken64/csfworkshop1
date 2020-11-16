@@ -15,7 +15,7 @@ ng build --prod --base-href=/csfworkshop1/
 Windows
 
 ```
-ng build --prod --base-href "https://kenken64.github.io/csfworkshop1"
+ng build --prod --base-href "https://kenken64.github.io/csfworkshop1/"
 ```
 
 Mac OS
